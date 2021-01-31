@@ -1,3 +1,4 @@
+```
 ********** Toaster Tool **********
 * arg 1: mode arg2: first idx, arg3: second idx 
 * 
@@ -11,6 +12,6 @@
 *  d - download data 
 *  a - live predict 
 **********************************
-
+```
 
 Desktop PC Tool for the Toaster Embedded Device
